@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7626" started-at="2019-07-17T11:45:54Z" finished-at="2019-07-17T11:46:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7626" started-at="2019-07-17T11:45:54Z" finished-at="2019-07-17T11:46:01Z">
+      <class name="orangeHRM.ProjectHRM.AppTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:orangeHRM.ProjectHRM.AppTest@59f99ea]" name="startBrowser" is-config="true" duration-ms="7571" started-at="2019-07-17T11:45:46Z" finished-at="2019-07-17T11:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="login()[pri:1, instance:orangeHRM.ProjectHRM.AppTest@59f99ea]" name="login" duration-ms="3222" started-at="2019-07-17T11:45:54Z" finished-at="2019-07-17T11:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyAdminFunctionality()[pri:2, instance:orangeHRM.ProjectHRM.AppTest@59f99ea]" name="verifyAdminFunctionality" duration-ms="4381" started-at="2019-07-17T11:45:57Z" finished-at="2019-07-17T11:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminFunctionality -->
+        <test-method status="PASS" signature="verifysearchbyusername()[pri:3, instance:orangeHRM.ProjectHRM.AppTest@59f99ea]" name="verifysearchbyusername" duration-ms="0" started-at="2019-07-17T11:46:01Z" finished-at="2019-07-17T11:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysearchbyusername -->
+      </class> <!-- orangeHRM.ProjectHRM.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
